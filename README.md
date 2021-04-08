@@ -1,4 +1,3 @@
-## INGONER THIS TEXT, THIS TEXT
 # Shell Scripting
 
 ## Introduction
